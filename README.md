@@ -1,7 +1,8 @@
 WALL STORE
 
-Overview\n
-This project is an eCommerce website that allows users to browse and purchase products online. The website is built with modern web technologies and features a responsive design that works on desktop and mobile devices. The goal of this project is to provide users with a seamless shopping experience and a user-friendly interface.\n\n
+Overview
+This project is an eCommerce website that allows users to browse and purchase products online. The website is built with modern web technologies and features a responsive design that works on desktop and mobile devices. The goal of this project is to provide users with a seamless shopping experience and a user-friendly interface.
+
 
 Features\n
 User authentication and authorization
