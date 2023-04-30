@@ -97,7 +97,9 @@ const Layout = ({ children, title }) => {
                 </header>
                 <main className="container m-auto mt-4 px-4">{children}</main>
                 <footer className="flex  justify-center flex-col items-center shadow-inner mt-12 bg-black px-[10px] pt-[30px] pb-[10px] text-white">
-                    <p className="text-[15px] mb-[15px] font-bold">2022 Wall Store all rights reserverd</p>
+                    <p className="text-[15px] mb-[15px] font-bold">
+                        {new Date().getFullYear()} Wall Store all rights reserverd
+                    </p>
                     <div className="flex gap-3 font-bold text-[22px] text-white mb-[10px]">
                         <AiFillInstagram />
                         <BsTwitter />
