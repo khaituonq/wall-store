@@ -1,4 +1,4 @@
-# Ecomerce Web Application
+# Ecommerce Web Application
 ![Krypt](https://user-images.githubusercontent.com/98631546/235292143-27a0cb41-ba91-4ebf-8752-4c972405f941.png)
 
 ## Overview
